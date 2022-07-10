@@ -1,0 +1,21 @@
+body {
+    background-color: blanchedalmond;
+    color: #251D3A
+}
+
+h1 {
+    text-align: center;
+
+}
+
+h2 {
+    margin: 50px;
+}
+
+button {
+    background-color: rgb(235, 197, 142);
+    color: rgb(2, 61, 61);
+    margin: 50px;
+    border-radius: 5px;
+    padding: 10px;
+}
